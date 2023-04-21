@@ -18,3 +18,10 @@ The goal was to practice backend side programming, and create the API beta local
 
 Javascript / CSS / HTML
 Written in VsCode
+
+# Sneak a peek:
+![screenshot1](https://github.com/SzegBer/a-simple-backend-server/blob/main/a-simple-backend-server_01.png)
+
+![screenshot2](https://github.com/SzegBer/a-simple-backend-server/blob/main/a-simple-backend-server_02.png)
+
+![screenshot3](https://github.com/SzegBer/a-simple-backend-server/blob/main/a-simple-backend-server_03.png)
